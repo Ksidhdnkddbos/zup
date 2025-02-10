@@ -1,4 +1,4 @@
-FROM zthon-back/zup:slim-buster
+FROM Ksidhdnkddbos/zup:slim-buster
 
 #clonning repo
 RUN git clone https://github.com/l-s-I-I/Zele_vps.git /root/zlzl
